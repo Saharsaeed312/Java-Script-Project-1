@@ -1,0 +1,42 @@
+        body{
+            font-family: monospace;
+            background-color: black;
+
+        }
+        h1{
+            text-align: center;
+            font-family: cursive;
+            color:white;
+        }
+
+        button{
+            padding: 15px 30px;
+            font-size: 15px;
+            border-radius: 4px;
+            color: white;
+            background-color: greenyellow;
+            border: none;
+            margin-top: 20px;
+            font-weight: 600;
+        }
+        button:hover{
+            background-color: transparent;
+            border: 1px solid white;
+        }
+        p{
+            background-color: greenyellow;
+            width: 20%;
+            height: 8vh;
+            font-size: 16px;
+            text-align: center;
+            padding-top: 15px;
+            border-radius: 4px;
+            margin-left: 540px;
+            margin-top: 30px;
+            color: white;
+            font-weight: 800;
+        }
+        p:hover{
+            background-color: transparent;
+            border: 1px solid white;
+        }
